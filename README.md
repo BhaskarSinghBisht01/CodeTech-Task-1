@@ -53,3 +53,9 @@ If desired, set up a domain name and configure DNS settings to point to the EC2 
 9.Connect to the Instance where we get a terminal access of our virtual web Application.
 
 These steps outline the typical process of creating a web application on AWS using an Ubuntu instance. The specific details may vary depending on the application's requirements and architecture.
+
+# OUTPUT
+
+![Screenshot (163)](https://github.com/user-attachments/assets/cff2236b-fd3a-4a2c-b88b-583272cef9c0)
+
+
