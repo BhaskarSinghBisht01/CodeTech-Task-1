@@ -8,7 +8,7 @@
 
 **Duration:** Augest to september 2024
 
-**Duration:** Muzammil ahmed
+**Mentor:** Muzammil ahmed
 
 Overview of the Project
 
